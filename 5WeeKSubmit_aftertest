@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="row input-container">
+            <h1>Get In Touch</h1>
+            <div class="item-1">
+                <input type="text" name="fname" placeholder="First Name"/>
+            </div>
+            <div class="item-1" style="float: right;">
+                <input type="text" name="lname" placeholder="Last Name"/>
+            </div>
+            <div class="item-2">
+                <input type="text" name="email" placeholder="Email"/>
+            </div>
+            <div class="item-2"  style="float:right;">
+                <input type="text" name="phone number" placeholder="Phone"/>
+            </div>
+            <div class="item-3">
+                <input type="text" name="adressinput" placeholder="Address"/>
+            </div>
+            <div class="item-4">
+                <textarea  name="text" placeholder="Type your message here"></textarea>
+            </div>
+            <div class="submit">Submit</div>
+            <h2>Thanks for submitting!</h2>
+        </div> 
+    </div>
+</body>
+</html>
