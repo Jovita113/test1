@@ -18,9 +18,9 @@ Project is created with:
 
 
 ## Lauch procedure
-
-1. Git clone the repository [link](https://github.com/Jovita113/BIT_Sprint4_JS.git) .
-2. Open index.html
+1. Clone the git repository([link](https://github.com/Jovita113/BIT_Sprint4_JS.git)) .
+2. Open "index.html" file using your internet browser.
+3. Enjoy!
 
 
 ## Project Status
